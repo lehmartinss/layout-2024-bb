@@ -19,4 +19,4 @@ Site informativo para apresentar um produto da marca Eudora. O objetivo desse pr
 
 ## Autor 
 - [Letícia Beatriz](https://www.linkedin.com/in/let%C3%ADcia-beatriz-martins/)
-# layout-2024-bb
+
