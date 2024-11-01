@@ -23,10 +23,9 @@ header{
     justify-content: space-between;
     align-items: center;
 }
-.logo{
-    height: 80px;
-    width: 80px;
-    background-color: lightgray;
+
+.logo img {
+    height: 130px;
 }
 
 .menu ul{
@@ -46,17 +45,17 @@ main{
     flex-direction: column;
 }
 .conteudo h1{
-    font-size: 96px;
+    font-size: 100px;
 }
 .conteudo p{
     font-size: 40px;
     width: 80%;
 }
 .conteudo button{
-    height: 80px;
-    width: 300px;
-    background-color: black;
-    color: white;
+    height: 55px;
+    width: 200px;
+    background-color: rgb(224, 74, 134);
+    color: rgb(238, 190, 222);
     font-size: 32px;
 }
 
@@ -72,13 +71,22 @@ main{
     border-radius: 50%;
     background-color: lightgrey;
 }
+
+div img{
+    height: 130px;
+    border-radius: 5px;
+}
+
 .destaque{
-    width: 50%;
-    background-color: lightgrey;
+    width: 40%;
+    background-image: url(./Pó\ translucido.webp);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: center;
 }
 
 footer{
-    height: 100px;
+    height: 130px;
     display: flex;
     justify-content: center;
     align-items: center;
