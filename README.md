@@ -1,6 +1,6 @@
 # Landing Page - Layout Eudora
 
-![](./Captura%20de%20Tela%202024-11-01%20%C3%A0s%2015.29.14.png)
+![](./img/Captura%20de%20Tela%202024-11-01%20%C3%A0s%2015.29.14.png)
 ---
 
 ## Sobre 
